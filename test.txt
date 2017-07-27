@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 runoob
 runoob
+=======
+www.runoob.com
+>>>>>>> change
+www.runoob.com
